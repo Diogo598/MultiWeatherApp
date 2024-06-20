@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+
+    android:padding="16dp">
+
+    <TextView
+
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+
+        android:id="@+id/textview_location"
+
+        android:text="Standort"
+
+        android:textSize="20dp" />
+
+    <ImageView
+
+        android:layout_width="64dp"
+
+        android:layout_height="64dp"
+
+        android:id="@+id/imageview_weathericon"
+
+        android:src="@drawable/icon"
+
+        android:layout_below="@id/textview_location"/>
+
+    <TextView
+
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+
+        android:id="@+id/textview_temperature"
+
+        android:layout_below="@id/textview_location"
+
+        android:layout_toRightOf="@id/imageview_weathericon"
+
+        android:layout_marginLeft="6dp"
+
+        android:textSize="26dp"
+
+        android:text="20°"
+
+        android:textStyle="bold"/>
+
+    <TextView
+
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+
+        android:id="@+id/textview_description"
+
+        android:layout_toRightOf="@id/imageview_weathericon"
+
+        android:layout_below="@id/textview_temperature"
+
+        android:layout_marginLeft="6dp"
+
+        android:text="Sonnig"
+
+        android:textSize="16dp"/>
+
+    <TextView
+
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+
+        android:id="@+id/textview_provider"
+
+        android:layout_below="@id/imageview_weathericon"
+
+        android:layout_marginTop="6dp"
+
+        android:text="https://www.openweathermap.com"
+
+        android:textSize="9dp"/>
+
+</RelativeLayout>
