@@ -1,5 +1,4 @@
 multiWeatherApp
-GitHub: multiWeatherApp Repository
 
 Beschreibung:
 Die multiWeatherApp ist eine Android-Anwendung, die während meiner Fernschulausbildung entwickelt wurde.
@@ -26,14 +25,12 @@ Entwicklungsumgebung: Android Studio
 Versionskontrolle: Git, GitHub
 Installation und Nutzung:
 
-Repository klonen:
-sh
-Code kopieren
+1.Repository klonen:
 git clone https://github.com/yourusername/multiWeatherApp.git
-Projekt in Android Studio öffnen.
-App auf einem Emulator oder physischen Gerät bauen und ausführen.
+2.Projekt in Android Studio öffnen.
+3.App auf einem Emulator oder physischen Gerät bauen und ausführen.
 Screenshots und Demos:
 [Fügen Sie Screenshots oder Demos hinzu, falls verfügbar]
 
-Feedback und Beiträge:
+
 Feedback und Beiträge sind willkommen! Bitte zögern Sie nicht, ein Problem zu melden oder einen Pull-Request zu erstellen.
