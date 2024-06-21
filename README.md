@@ -7,6 +7,7 @@ Dieses Projekt hat mir beigebracht, wie man APIs zur Wetterdatenabfrage integrie
 Allerdings funktioniert die Anfrage nur noch mit einem der ursprünglichen 3 Providern aus den folgenden Gründen:
 
 WeatherStackApi: Erfordert inzwischen den Kauf einer Lizenz
+
 Spring: Da mein PC als Server dient müsste ich jedes mal manuell den Server einschalten
         außerdem diente dies nur zu Übungszwecken weshalb sowieso feste Werte verwendet wurden
 
