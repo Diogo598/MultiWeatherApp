@@ -6,6 +6,9 @@ import org.json.JSONException
 import org.json.JSONObject
 import java.io.IOException
 import java.net.URLEncoder
+
+//Spring funktioniert nur wenn ich es davor gestartet habe
+//Es funktioniert außerdem generell nur mit hardcoded Werten
 class SpringWeatherAPI private constructor(queryString: String): WeatherAPI {
     private val weatherdata: JSONObject
 

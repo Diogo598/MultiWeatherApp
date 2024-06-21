@@ -9,16 +9,21 @@
     <string-array name="provider_names">
 
         <item>OpenWeatherMap</item>
+        <!-- Die Provider funktionieren nur unter Umwegen -->
+        <!-- bzw. bei dem Kauf einer Api daher kann man sie auch gleich weglassen-->
+        <!--
         <item>WeatherStack</item>
         <item>Spring</item>
+        -->
+
 
     </string-array>
 
     <string-array name="class_names">
 
         <item>OpenWeatherMapAPI</item>
-        <item>WeatherStackAPI</item>
-        <item>SpringWeatherAPI</item>
+        <!--<item>WeatherStackAPI</item>
+        <item>SpringWeatherAPI</item>-->
 
     </string-array>
 

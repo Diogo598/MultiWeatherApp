@@ -10,7 +10,7 @@ class WeatherStackAPI private constructor(queryString: String): WeatherAPI{
     private val weatherdata: JSONObject
 
     companion object {
-        //Creditcardscam
+        //Paid Bs
         private const val API_KEY = "148bc012af15fef79a91f8e5375b7ad4"
         private const val BASE_URL = "http://api.weatherstack.com/current?access_key=$API_KEY&"
         @Throws(IOException::class, JSONException::class)
