@@ -1,60 +1,42 @@
-Beschreibung:
+# MultiWeatherApp
 
+## Beschreibung
 
-Die multiWeatherApp ist eine Android-Anwendung, die während meiner Fernschulausbildung entwickelt wurde.
-Sie ermöglicht es Benutzern, den Namen einer Stadt einzugeben und zeigt beim Zurückkehren zum Startbildschirm das aktuelle Wetter der angegebenen Stadt an.
-Dieses Projekt hat mir beigebracht, wie man APIs zur Wetterdatenabfrage integriert und grundlegende Erfahrungen mit Fragments und dem Spring-Framework vermittelt.
-Allerdings funktioniert die Anfrage nur noch mit einem der ursprünglichen 3 Providern aus den folgenden Gründen:
+Die MultiWeatherApp ist eine Android-Anwendung, die während meiner Fernschulausbildung entwickelt wurde. Sie ermöglicht es Benutzern, den Namen einer Stadt einzugeben und zeigt beim Zurückkehren zum Startbildschirm das aktuelle Wetter der angegebenen Stadt an. Dieses Projekt hat mir beigebracht, wie man APIs zur Wetterdatenabfrage integriert und grundlegende Erfahrungen mit Fragments und dem Spring-Framework sammelt. Allerdings funktioniert die Anfrage nur noch mit einem der ursprünglichen drei Provider aus den folgenden Gründen:
 
+- **WeatherStackApi**: Erfordert inzwischen den Kauf einer Lizenz.
+- **Spring**: Da mein PC als Server dient, müsste ich jedes Mal manuell den Server einschalten. Außerdem wurden bei Spring nur feste Werte verwendet.
 
-WeatherStackApi : Erfordert inzwischen den Kauf einer Lizenz
+## Hauptfunktionen
 
-Spring : Da mein PC als Server dient müsste ich jedes mal manuell den Server einschalten
-         außerdem wurden bei Spring nur feste Werte verwendet
+- Eingabe eines Stadtnamens zur Anzeige aktueller Wetterinformationen
+- Nutzung von APIs zur Wetterdatenabfrage
+- Demonstration der Fragment-Navigation und -Verwaltung
+- Grundlegende Integration mit dem Spring-Framework
 
+## Technologien und Tools
 
-Hauptfunktionen:
+- **Programmiersprache**: Kotlin
+- **APIs**: OpenWeatherMapApi, WeatherStackAPI (ursprünglich)
+- **Frameworks**: Android SDK, Spring Framework
+- **Entwicklungsumgebung**: Android Studio
+- **Versionskontrolle**: Git, GitHub
 
+## Installation und Nutzung
 
-Eingabe eines Stadtnamens zur Anzeige aktueller Wetterinformationen
+1. Repository klonen:
+   git clone https://github.com/yourusername/multiWeatherApp.git
+2. Projekt in Android Studio öffnen.
+3. App auf einem Emulator oder physischen Gerät bauen und ausführen.
 
-Nutzung von APIs zur Wetterdatenabfrage
+## Screenshots und Demos
 
-Demonstration der Fragment-Navigation und -Verwaltung
+(screenshots)
 
-Grundlegende Integration mit dem Spring-Framework
-
-
-Technologien und Tools:
-
-
-Programmiersprache: Kotlin
-
-APIs: OpenWeatherMapApi,WeatherStackAPI(ursprünglich)
-
-Frameworks: Android SDK, Spring Framework
-
-Entwicklungsumgebung: Android Studio
-
-Versionskontrolle: Git, GitHub
-
-
-Installation und Nutzung:
-
-
-1.Repository klonen:
-
-git clone https://github.com/yourusername/multiWeatherApp.git
-
-2.Projekt in Android Studio öffnen.
-
-3.App auf einem Emulator oder physischen Gerät bauen und ausführen.
-
-
-Screenshots und Demos:
-
-
-[Fügen Sie Screenshots oder Demos hinzu, falls verfügbar]
-
+## Feedback und Beiträge
 
 Feedback und Beiträge sind willkommen! Bitte zögern Sie nicht, ein Problem zu melden oder einen Pull-Request zu erstellen.
+   
+  
+
+   
