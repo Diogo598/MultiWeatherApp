@@ -32,9 +32,8 @@ Die MultiWeatherApp ist eine Android-Anwendung, die während meiner Fernschulaus
 ## Screenshots und Demos
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github.com/Diogo598/TrueOrFalseApp/blob/master/Home.jpg" alt="Achievements Screen" title="Achievements screen showing the various accomplishments users can unlock." width="300"/>
-  <img src="https://github.com/Diogo598/TrueOrFalseApp/blob/master/Ex1.jpg"alt="Screen2" title="Screen2." width="300"/>
-  <img src="https://github.com/Diogo598/TrueOrFalseApp/blob/master/Ex3.jpg" alt="Screen3" title="Screen3." width="300"/>
+  <img src="https://github.com/Diogo598/MultiWeatherApp/blob/master/MSE.jpg" alt="Achievements Screen" title="Achievements screen showing the various accomplishments users can unlock." width="300"/>
+  <img src="https://github.com/Diogo598/MultiWeatherApp/blob/master/Home.jpg"alt="Screen2" title="Screen2." width="300"/>
   <!-- Add more images here in the same way -->
 </div>
 
