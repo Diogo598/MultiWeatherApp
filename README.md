@@ -25,7 +25,7 @@ Die MultiWeatherApp ist eine Android-Anwendung, die während meiner Fernschulaus
 ## Installation und Nutzung
 
 1. Repository klonen:
-   git clone https://github.com/yourusername/multiWeatherApp.git
+   git clone https://github.com/diogo598/multiWeatherApp.git
 2. Projekt in Android Studio öffnen.
 3. App auf einem Emulator oder physischen Gerät bauen und ausführen.
 
